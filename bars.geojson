@@ -1,0 +1,1465 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/gardinerst/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "aoifemcd",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Bewan / Default",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.591796875,
+          53.48804553605614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/n25dungarvan/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "faisal",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "Other / Other",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4187798,
+          52.1989265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/m1-drynam/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2060738,
+          53.4427748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/m50-tallaght/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.343201,
+          53.30208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/m1-airport-exit/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2177467,
+          53.4272305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/m50-blanchardstown/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.369696,
+          53.376657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/liutingd10493/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "liutingd",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Sony / Default",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.267953,
+          53.35654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/n11-johnstown-rd/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.149168,
+          53.2618246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/n32-malahide-road/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1772346,
+          53.4320376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/dub-city-ir/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "faisal",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Axis Communications / Default",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2671944,
+          53.344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/m50-ballymount/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.366251,
+          53.316083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/johns-road-scr/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3076973,
+          53.3438904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/m50-coolock-lane/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.243215,
+          53.383704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/m50-ballymun/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2663269,
+          53.4089179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/north-wall-quay/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.22751,
+          53.3465933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/north-strand-rd/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2393117,
+          53.3602974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/m50-firhouse/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.331441,
+          53.291618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/heuston-station/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.298893,
+          53.345569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/kilmacthomasireland/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "faisal",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "Other / Other",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4187798,
+          52.1989265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/guild-st-seville-place/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.241001486778259,
+          53.349097533356634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/n11-kill-lane/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.173501,
+          53.2735928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/sir-john-rogersons-quay/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2404168,
+          53.346145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/n11-clonkeen-rd/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1586094,
+          53.2662396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/m50-ballinteer/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.224259,
+          53.352934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/n11-trees-rd/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2026405,
+          53.2940286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/m50-greenhills-park/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.374119,
+          53.32515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/m1-bablriggan/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.220665,
+          53.5988212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/newlands-cross/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3906097,
+          53.3128265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/samuel-beckett-bridge/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2410069,
+          53.3476309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/m50-lucan/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.384433,
+          53.355606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/drumcondra-road/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.255555152893066,
+          53.36696860222262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/chqaxis/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "vinnieq",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Axis Communications / Default",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2480151,
+          53.3480826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/dannycam-3/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "scandox",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / DS-2CD2412F-I-W",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3138675,
+          53.3195019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/longmile-rd/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3394117,
+          53.3272335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/n11-wyattville/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1368942,
+          53.2473441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/m1-malahide-estuary/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2038422,
+          53.4622481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/beef-slatted/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "meherbst",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / DS-2DF7286-A",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0308075,
+          52.9592383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/m50-south-of-finglas/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.288348,
+          53.408221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/dun_laoghaire/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "ronan67",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Axis Communications / Default",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.132402,
+          53.297155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/osptz1/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "joedolan",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / DS-2CD2632F-I-S",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3648762,
+          53.3176106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/remcam/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "vinnieq",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / Default",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2598419,
+          53.3477972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/duncannon-wallace-mobiles/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "vinniequinn",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.919712,
+          52.218572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/rosslare-port-cam/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "vinniequinn",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / Default",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.33610725402832,
+          52.2538681299161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/osheaspub/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "aoifemcd",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2544413,
+          53.350743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/smartcity1/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "vinnieq",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / DS-2CD2032-I",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2837076,
+          53.3421225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/strandhill/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "vinnieq",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Axis Communications / Default",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.60924,
+          54.2705916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/n11-fosters-ave/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2087345,
+          53.3036081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/m50-red-cow/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.366221,
+          53.319043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/m1-m50/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2251282,
+          53.4103505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/n11-newtownpark-avenue/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1850452,
+          53.2784043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/guild-st-mayor-st/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2409210205078125,
+          53.34909112890753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/oconnell-bridge/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2588167,
+          53.3468367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/north-quays-civic-offices/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2716484,
+          53.3448384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/pearse-street/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.247662,
+          53.343826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/n11-kilmacud-rd/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1956024,
+          53.2893983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/dame-st-civic-offices/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2670346,
+          53.3442214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/liberty-hall/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2552655,
+          53.3484123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/m5-edmondstown/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.224302,
+          53.352812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/constitution-hill/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.273095,
+          53.352911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/m1-lissenhall/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2048721,
+          53.4787501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/carlowweather/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "saloreilly",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / Default",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7014241,
+          52.7960412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/hook-head-north/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "vinniequinn",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9291115,
+          52.1233714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/port-tunnel-toll-plaza/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3827133,
+          53.3636652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/cabra-rd/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3022041,
+          53.3627432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/stephens-green/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "marco",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / Default",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2611343,
+          53.3401496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/strandhill2/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "vinniequinn",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "Axis Communications / Default",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6096691,
+          54.2705916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/centralbankbuild/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "vinniequinn",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2328585,
+          53.3493736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/gpocam/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "vinniequinn",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / DS-2CD2632F-I-S",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2604582,
+          53.349321688468464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/wf-countycouncil/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "faisal",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6211994,
+          52.0921526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/harolds-cross-bridge/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercamdublintraffic",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.27563,
+          53.329515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/duncannon-hooked-cam/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "vinniequinn",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.944534,
+          52.2364961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/evercam-remembrance-camera/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "evercam",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / Default",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0360008,
+          52.9638669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail": "https://media.evercam.io/v1/cameras/wwcam/thumbnail?",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller": "vinniequinn",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / Default",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.036472320556641,
+          52.96673456698308
+        ]
+      }
+    }
+  ]
+}
