@@ -6,6 +6,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/gardinerst/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/gardinerst/live'>Gardiner St</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "aoifemcd",
         "Online ?": false,
@@ -26,6 +27,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/n25dungarvan/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/n25dungarvan/live'>N25 Dungarvan Ireland</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "faisal",
         "Online ?": true,
@@ -46,6 +48,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/m1-drynam/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/m1-drynam/live'>M1 - Drynam</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -66,6 +69,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/m50-tallaght/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/m50-tallaght/live'>M50 - Tallaght</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -86,6 +90,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/m1-airport-exit/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/m1-airport-exit/live'>M1 - Airport Exit</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -106,6 +111,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/m50-blanchardstown/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/m50-blanchardstown/live'>M50 - Blanchardstown</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -126,6 +132,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/liutingd10493/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/liutingd10493/live'>Wayra</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "liutingd",
         "Online ?": false,
@@ -146,6 +153,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/n11-johnstown-rd/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/n11-johnstown-rd/live'>N11 - Johnstown Rd</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -166,6 +174,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/n32-malahide-road/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/n32-malahide-road/live'>N32 - Malahide Road</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -186,6 +195,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/dub-city-ir/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/dub-city-ir/live'>Dublin city Church</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "faisal",
         "Online ?": false,
@@ -206,6 +216,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/m50-ballymount/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/m50-ballymount/live'>M50 - Ballymount</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -226,6 +237,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/johns-road-scr/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/johns-road-scr/live'>Johns Road - SCR</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -246,6 +258,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/m50-coolock-lane/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/m50-coolock-lane/live'>M50 - Coolock Lane</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -266,6 +279,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/m50-ballymun/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/m50-ballymun/live'>M50 - Ballymun</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -286,6 +300,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/north-wall-quay/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/north-wall-quay/live'>North Wall Quay</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": false,
@@ -306,6 +321,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/north-strand-rd/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/north-strand-rd/live'>North Strand Rd</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -326,6 +342,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/m50-firhouse/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/m50-firhouse/live'>M50 - Firhouse</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -346,6 +363,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/heuston-station/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/heuston-station/live'>Heuston Station</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -366,6 +384,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/kilmacthomasireland/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/kilmacthomasireland/live'>N25 Kilmacthomas Ireland</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "faisal",
         "Online ?": true,
@@ -386,6 +405,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/guild-st-seville-place/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/guild-st-seville-place/live'>Guild St - Seville Place</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": false,
@@ -406,6 +426,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/n11-kill-lane/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/n11-kill-lane/live'>N11 - Kill Lane</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -426,6 +447,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/sir-john-rogersons-quay/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/sir-john-rogersons-quay/live'>Sir John Rogersons Quay</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -446,6 +468,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/n11-clonkeen-rd/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/n11-clonkeen-rd/live'>N11 - Clonkeen Rd</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -466,6 +489,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/m50-ballinteer/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/m50-ballinteer/live'>M50 - Ballinteer</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -486,6 +510,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/n11-trees-rd/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/n11-trees-rd/live'>N11 - Trees Rd</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -506,6 +531,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/m50-greenhills-park/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/m50-greenhills-park/live'>M50 - Greenhills Park</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -526,6 +552,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/m1-bablriggan/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/m1-bablriggan/live'>M1-Balbriggan</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -546,6 +573,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/newlands-cross/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/newlands-cross/live'>Newlands Cross</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -566,6 +594,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/samuel-beckett-bridge/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/samuel-beckett-bridge/live'>Samuel Beckett Bridge</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -586,6 +615,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/m50-lucan/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/m50-lucan/live'>M50 - Lucan</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -606,6 +636,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/drumcondra-road/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/drumcondra-road/live'>Drumcondra Road</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -626,6 +657,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/chqaxis/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/chqaxis/live'>CHQ external test</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "vinnieq",
         "Online ?": false,
@@ -646,6 +678,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/dannycam-3/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/dannycam-3/live'>dannycam-3</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "scandox",
         "Online ?": false,
@@ -666,6 +699,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/longmile-rd/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/longmile-rd/live'>Longmile RD</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -686,6 +720,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/n11-wyattville/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/n11-wyattville/live'>N11 - Wyattville</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -706,6 +741,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/m1-malahide-estuary/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/m1-malahide-estuary/live'>M1 - Malahide Estuary</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -726,6 +762,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/beef-slatted/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/beef-slatted/live'>Slatted Unit Camera</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "meherbst",
         "Online ?": false,
@@ -746,6 +783,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/m50-south-of-finglas/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/m50-south-of-finglas/live'>M50 - South of Finglas</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -766,6 +804,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/dun_laoghaire/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/dun_laoghaire/live'>Dun Laoghaire Webcam</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "ronan67",
         "Online ?": false,
@@ -786,6 +825,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/osptz1/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/osptz1/live'>OS PTZ</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "joedolan",
         "Online ?": false,
@@ -806,6 +846,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/remcam/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/remcam/live'>RemCam</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "vinnieq",
         "Online ?": false,
@@ -826,6 +867,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/duncannon-wallace-mobiles/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/duncannon-wallace-mobiles/live'>Wallace Mobiles Duncannon</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "vinniequinn",
         "Online ?": false,
@@ -846,6 +888,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/rosslare-port-cam/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/rosslare-port-cam/live'>RosslarePortCam</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "vinniequinn",
         "Online ?": false,
@@ -866,6 +909,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/osheaspub/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/osheaspub/live'>O Sheas Pub</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "aoifemcd",
         "Online ?": false,
@@ -886,6 +930,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/smartcity1/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/smartcity1/live'>Smart City Hack Cam 1</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "vinnieq",
         "Online ?": false,
@@ -906,6 +951,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/strandhill/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/strandhill/live'>Strandhill Surf School</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "vinnieq",
         "Online ?": false,
@@ -926,6 +972,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/n11-fosters-ave/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/n11-fosters-ave/live'>N11 - Fosters Ave</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -946,6 +993,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/m50-red-cow/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/m50-red-cow/live'>M50 - Red Cow</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -966,6 +1014,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/m1-m50/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/m1-m50/live'>M1-M50</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -986,6 +1035,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/n11-newtownpark-avenue/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/n11-newtownpark-avenue/live'>N11 - Newtownpark Avenue</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -1006,6 +1056,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/guild-st-mayor-st/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/guild-st-mayor-st/live'>Guild St - Mayor St</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -1026,6 +1077,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/oconnell-bridge/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/oconnell-bridge/live'>OConnell Bridge</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -1046,6 +1098,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/north-quays-civic-offices/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/north-quays-civic-offices/live'>North Quays - Civic</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": false,
@@ -1066,6 +1119,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/pearse-street/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/pearse-street/live'>Pearse Street</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": false,
@@ -1086,6 +1140,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/n11-kilmacud-rd/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/n11-kilmacud-rd/live'>N11 - Kilmacud Rd</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -1106,6 +1161,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/dame-st-civic-offices/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/dame-st-civic-offices/live'>Dame St - Civic Offices</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -1126,6 +1182,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/liberty-hall/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/liberty-hall/live'>Liberty Hall</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": false,
@@ -1146,6 +1203,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/m5-edmondstown/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/m5-edmondstown/live'>M50 - Edmondstown</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": false,
@@ -1166,6 +1224,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/constitution-hill/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/constitution-hill/live'>Constitution Hill</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -1186,6 +1245,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/m1-lissenhall/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/m1-lissenhall/live'>M1 - Lissenhall</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -1206,6 +1266,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/carlowweather/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/carlowweather/live'>Carlow Weather</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "saloreilly",
         "Online ?": true,
@@ -1226,6 +1287,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/hook-head-north/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/hook-head-north/live'>Hook Head North</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "vinniequinn",
         "Online ?": false,
@@ -1246,6 +1308,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/port-tunnel-toll-plaza/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/port-tunnel-toll-plaza/live'>Port Tunnel Toll Plaza</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -1266,6 +1329,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/cabra-rd/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/cabra-rd/live'>Cabra Rd</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": true,
@@ -1286,6 +1350,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/stephens-green/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/stephens-green/live'>Stephens Green</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "marco",
         "Online ?": true,
@@ -1306,6 +1371,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/strandhill2/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/strandhill2/live'>Strandhill Surf School 2</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "vinniequinn",
         "Online ?": true,
@@ -1326,6 +1392,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/centralbankbuild/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/centralbankbuild/live'>Central Bank New Building</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "vinniequinn",
         "Online ?": false,
@@ -1346,6 +1413,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/gpocam/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/gpocam/live'>GPOCam</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "vinniequinn",
         "Online ?": true,
@@ -1366,6 +1434,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/wf-countycouncil/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/wf-countycouncil/live'>Waterfordcity county</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "faisal",
         "Online ?": false,
@@ -1386,6 +1455,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/harolds-cross-bridge/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/harolds-cross-bridge/live'>Harolds Cross Bridge</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercamdublintraffic",
         "Online ?": false,
@@ -1406,6 +1476,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/duncannon-hooked-cam/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/duncannon-hooked-cam/live'>Duncannon Hooked Cam</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "vinniequinn",
         "Online ?": true,
@@ -1426,6 +1497,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/evercam-remembrance-camera/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/evercam-remembrance-camera/live'>Herbst Wicklow Cam</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "evercam",
         "Online ?": true,
@@ -1446,6 +1518,7 @@
       "properties": {
         "marker-color": "#DC4C3F",
         "Current Thumbnail": "<img width='180' src='https://media.evercam.io/v1/cameras/wwcam/thumbnail?' />",
+        "Camera": "<a href='http://dash.evercam.io/v1/cameras/wwcam/live'>WWcam</a>",
         "Data Processor": "Camba.tv Ltd\n\n01-5383333",
         "Data Controller": "vinniequinn",
         "Online ?": true,
