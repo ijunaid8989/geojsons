@@ -1,0 +1,1781 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/gardiner2/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/gardiner2/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/gardiner2/live'>Gardiner2</a>",
+        "Camera Name": "Gardiner2",
+        "Camera ID": "gardiner2",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "vinniequinn",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/gardiner2/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2544413,
+          53.3506917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/n25dungarvan/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/n25dungarvan/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/n25dungarvan/live'>N25 Dungarvan Ireland</a>",
+        "Camera Name": "N25 Dungarvan Ireland",
+        "Camera ID": "n25dungarvan",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "faisal",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "Other / Other",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/n25dungarvan/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4187798,
+          52.1989265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/m1-drynam/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/m1-drynam/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/m1-drynam/live'>M1 - Drynam</a>",
+        "Camera Name": "M1 - Drynam",
+        "Camera ID": "m1-drynam",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/m1-drynam/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2060738,
+          53.4427748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/m50-tallaght/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/m50-tallaght/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/m50-tallaght/live'>M50 - Tallaght</a>",
+        "Camera Name": "M50 - Tallaght",
+        "Camera ID": "m50-tallaght",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/m50-tallaght/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.343201,
+          53.30208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/m1-airport-exit/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/m1-airport-exit/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/m1-airport-exit/live'>M1 - Airport Exit</a>",
+        "Camera Name": "M1 - Airport Exit",
+        "Camera ID": "m1-airport-exit",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/m1-airport-exit/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2177467,
+          53.4272305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/m50-blanchardstown/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/m50-blanchardstown/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/m50-blanchardstown/live'>M50 - Blanchardstown</a>",
+        "Camera Name": "M50 - Blanchardstown",
+        "Camera ID": "m50-blanchardstown",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/m50-blanchardstown/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.369696,
+          53.376657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/liutingd10493/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/liutingd10493/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/liutingd10493/live'>Wayra</a>",
+        "Camera Name": "Wayra",
+        "Camera ID": "liutingd10493",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "liutingd",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Sony / Default",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/liutingd10493/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.267953,
+          53.35654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/n11-johnstown-rd/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/n11-johnstown-rd/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/n11-johnstown-rd/live'>N11 - Johnstown Rd</a>",
+        "Camera Name": "N11 - Johnstown Rd",
+        "Camera ID": "n11-johnstown-rd",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/n11-johnstown-rd/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.149168,
+          53.2618246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/n32-malahide-road/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/n32-malahide-road/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/n32-malahide-road/live'>N32 - Malahide Road</a>",
+        "Camera Name": "N32 - Malahide Road",
+        "Camera ID": "n32-malahide-road",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/n32-malahide-road/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1772346,
+          53.4320376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/dub-city-ir/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/dub-city-ir/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/dub-city-ir/live'>Dublin city Church</a>",
+        "Camera Name": "Dublin city Church",
+        "Camera ID": "dub-city-ir",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "faisal",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Axis Communications / Default",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/dub-city-ir/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2671944,
+          53.344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/m50-ballymount/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/m50-ballymount/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/m50-ballymount/live'>M50 - Ballymount</a>",
+        "Camera Name": "M50 - Ballymount",
+        "Camera ID": "m50-ballymount",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/m50-ballymount/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.366251,
+          53.316083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/johns-road-scr/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/johns-road-scr/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/johns-road-scr/live'>Johns Road - SCR</a>",
+        "Camera Name": "Johns Road - SCR",
+        "Camera ID": "johns-road-scr",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/johns-road-scr/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3076973,
+          53.3438904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/m50-coolock-lane/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/m50-coolock-lane/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/m50-coolock-lane/live'>M50 - Coolock Lane</a>",
+        "Camera Name": "M50 - Coolock Lane",
+        "Camera ID": "m50-coolock-lane",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/m50-coolock-lane/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.243215,
+          53.383704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/m50-ballymun/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/m50-ballymun/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/m50-ballymun/live'>M50 - Ballymun</a>",
+        "Camera Name": "M50 - Ballymun",
+        "Camera ID": "m50-ballymun",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/m50-ballymun/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2663269,
+          53.4089179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/north-wall-quay/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/north-wall-quay/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/north-wall-quay/live'>North Wall Quay</a>",
+        "Camera Name": "North Wall Quay",
+        "Camera ID": "north-wall-quay",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/north-wall-quay/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.22751,
+          53.3465933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/north-strand-rd/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/north-strand-rd/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/north-strand-rd/live'>North Strand Rd</a>",
+        "Camera Name": "North Strand Rd",
+        "Camera ID": "north-strand-rd",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/north-strand-rd/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2393117,
+          53.3602974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/m50-firhouse/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/m50-firhouse/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/m50-firhouse/live'>M50 - Firhouse</a>",
+        "Camera Name": "M50 - Firhouse",
+        "Camera ID": "m50-firhouse",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/m50-firhouse/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.331441,
+          53.291618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/kilmacthomasireland/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/kilmacthomasireland/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/kilmacthomasireland/live'>N25 Kilmacthomas Ireland</a>",
+        "Camera Name": "N25 Kilmacthomas Ireland",
+        "Camera ID": "kilmacthomasireland",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "faisal",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "Other / Other",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/kilmacthomasireland/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4187798,
+          52.1989265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/heuston-station/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/heuston-station/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/heuston-station/live'>Heuston Station</a>",
+        "Camera Name": "Heuston Station",
+        "Camera ID": "heuston-station",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/heuston-station/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.298893,
+          53.345569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/guild-st-seville-place/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/guild-st-seville-place/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/guild-st-seville-place/live'>Guild St - Seville Place</a>",
+        "Camera Name": "Guild St - Seville Place",
+        "Camera ID": "guild-st-seville-place",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/guild-st-seville-place/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.241001486778259,
+          53.349097533356634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/n11-kill-lane/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/n11-kill-lane/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/n11-kill-lane/live'>N11 - Kill Lane</a>",
+        "Camera Name": "N11 - Kill Lane",
+        "Camera ID": "n11-kill-lane",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/n11-kill-lane/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.173501,
+          53.2735928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/sir-john-rogersons-quay/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/sir-john-rogersons-quay/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/sir-john-rogersons-quay/live'>Sir John Rogersons Quay</a>",
+        "Camera Name": "Sir John Rogersons Quay",
+        "Camera ID": "sir-john-rogersons-quay",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/sir-john-rogersons-quay/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2404168,
+          53.346145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/m50-ballinteer/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/m50-ballinteer/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/m50-ballinteer/live'>M50 - Ballinteer</a>",
+        "Camera Name": "M50 - Ballinteer",
+        "Camera ID": "m50-ballinteer",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/m50-ballinteer/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.224259,
+          53.352934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/n11-clonkeen-rd/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/n11-clonkeen-rd/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/n11-clonkeen-rd/live'>N11 - Clonkeen Rd</a>",
+        "Camera Name": "N11 - Clonkeen Rd",
+        "Camera ID": "n11-clonkeen-rd",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/n11-clonkeen-rd/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1586094,
+          53.2662396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/n11-trees-rd/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/n11-trees-rd/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/n11-trees-rd/live'>N11 - Trees Rd</a>",
+        "Camera Name": "N11 - Trees Rd",
+        "Camera ID": "n11-trees-rd",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/n11-trees-rd/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2026405,
+          53.2940286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/m50-greenhills-park/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/m50-greenhills-park/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/m50-greenhills-park/live'>M50 - Greenhills Park</a>",
+        "Camera Name": "M50 - Greenhills Park",
+        "Camera ID": "m50-greenhills-park",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/m50-greenhills-park/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.374119,
+          53.32515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/m1-bablriggan/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/m1-bablriggan/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/m1-bablriggan/live'>M1-Balbriggan</a>",
+        "Camera Name": "M1-Balbriggan",
+        "Camera ID": "m1-bablriggan",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/m1-bablriggan/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.220665,
+          53.5988212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/newlands-cross/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/newlands-cross/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/newlands-cross/live'>Newlands Cross</a>",
+        "Camera Name": "Newlands Cross",
+        "Camera ID": "newlands-cross",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/newlands-cross/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3906097,
+          53.3128265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/samuel-beckett-bridge/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/samuel-beckett-bridge/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/samuel-beckett-bridge/live'>Samuel Beckett Bridge</a>",
+        "Camera Name": "Samuel Beckett Bridge",
+        "Camera ID": "samuel-beckett-bridge",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/samuel-beckett-bridge/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2410069,
+          53.3476309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/m50-lucan/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/m50-lucan/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/m50-lucan/live'>M50 - Lucan</a>",
+        "Camera Name": "M50 - Lucan",
+        "Camera ID": "m50-lucan",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/m50-lucan/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.384433,
+          53.355606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/drumcondra-road/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/drumcondra-road/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/drumcondra-road/live'>Drumcondra Road</a>",
+        "Camera Name": "Drumcondra Road",
+        "Camera ID": "drumcondra-road",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/drumcondra-road/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.255555152893066,
+          53.36696860222262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/chqaxis/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/chqaxis/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/chqaxis/live'>CHQ external test</a>",
+        "Camera Name": "CHQ external test",
+        "Camera ID": "chqaxis",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "vinnieq",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Axis Communications / Default",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/chqaxis/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2480151,
+          53.3480826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/dannycam-3/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/dannycam-3/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/dannycam-3/live'>dannycam-3</a>",
+        "Camera Name": "dannycam-3",
+        "Camera ID": "dannycam-3",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "scandox",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / DS-2CD2412F-I-W",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/dannycam-3/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3138675,
+          53.3195019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/m50-south-of-finglas/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/m50-south-of-finglas/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/m50-south-of-finglas/live'>M50 - South of Finglas</a>",
+        "Camera Name": "M50 - South of Finglas",
+        "Camera ID": "m50-south-of-finglas",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/m50-south-of-finglas/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.288348,
+          53.408221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/longmile-rd/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/longmile-rd/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/longmile-rd/live'>Longmile RD</a>",
+        "Camera Name": "Longmile RD",
+        "Camera ID": "longmile-rd",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/longmile-rd/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3394117,
+          53.3272335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/n11-wyattville/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/n11-wyattville/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/n11-wyattville/live'>N11 - Wyattville</a>",
+        "Camera Name": "N11 - Wyattville",
+        "Camera ID": "n11-wyattville",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/n11-wyattville/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1368942,
+          53.2473441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/m1-malahide-estuary/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/m1-malahide-estuary/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/m1-malahide-estuary/live'>M1 - Malahide Estuary</a>",
+        "Camera Name": "M1 - Malahide Estuary",
+        "Camera ID": "m1-malahide-estuary",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/m1-malahide-estuary/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2038422,
+          53.4622481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/beef-slatted/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/beef-slatted/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/beef-slatted/live'>Slatted Unit Camera</a>",
+        "Camera Name": "Slatted Unit Camera",
+        "Camera ID": "beef-slatted",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "meherbst",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / DS-2DF7286-A",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/beef-slatted/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0308075,
+          52.9592383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/dun_laoghaire/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/dun_laoghaire/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/dun_laoghaire/live'>Dun Laoghaire Webcam</a>",
+        "Camera Name": "Dun Laoghaire Webcam",
+        "Camera ID": "dun_laoghaire",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "ronan67",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Axis Communications / Default",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/dun_laoghaire/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.132402,
+          53.297155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/osptz1/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/osptz1/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/osptz1/live'>OS PTZ</a>",
+        "Camera Name": "OS PTZ",
+        "Camera ID": "osptz1",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "joedolan",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / DS-2CD2632F-I-S",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/osptz1/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3648762,
+          53.3176106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/remcam/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/remcam/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/remcam/live'>RemCam</a>",
+        "Camera Name": "RemCam",
+        "Camera ID": "remcam",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "vinnieq",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / Default",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/remcam/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2598419,
+          53.3477972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/osheaspub/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/osheaspub/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/osheaspub/live'>O Sheas Pub</a>",
+        "Camera Name": "O Sheas Pub",
+        "Camera ID": "osheaspub",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "aoifemcd",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/osheaspub/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2544413,
+          53.350743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/duncannon-wallace-mobiles/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/duncannon-wallace-mobiles/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/duncannon-wallace-mobiles/live'>Wallace Mobiles Duncannon</a>",
+        "Camera Name": "Wallace Mobiles Duncannon",
+        "Camera ID": "duncannon-wallace-mobiles",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "vinniequinn",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/duncannon-wallace-mobiles/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.919712,
+          52.218572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/rosslare-port-cam/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/rosslare-port-cam/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/rosslare-port-cam/live'>RosslarePortCam</a>",
+        "Camera Name": "RosslarePortCam",
+        "Camera ID": "rosslare-port-cam",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "vinniequinn",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / Default",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/rosslare-port-cam/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.33610725402832,
+          52.2538681299161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/smartcity1/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/smartcity1/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/smartcity1/live'>Smart City Hack Cam 1</a>",
+        "Camera Name": "Smart City Hack Cam 1",
+        "Camera ID": "smartcity1",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "vinnieq",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / DS-2CD2032-I",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/smartcity1/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2837076,
+          53.3421225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/strandhill/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/strandhill/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/strandhill/live'>Strandhill Surf School</a>",
+        "Camera Name": "Strandhill Surf School",
+        "Camera ID": "strandhill",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "vinnieq",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Axis Communications / Default",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/strandhill/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.60924,
+          54.2705916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/n11-fosters-ave/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/n11-fosters-ave/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/n11-fosters-ave/live'>N11 - Fosters Ave</a>",
+        "Camera Name": "N11 - Fosters Ave",
+        "Camera ID": "n11-fosters-ave",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/n11-fosters-ave/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2087345,
+          53.3036081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/m50-red-cow/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/m50-red-cow/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/m50-red-cow/live'>M50 - Red Cow</a>",
+        "Camera Name": "M50 - Red Cow",
+        "Camera ID": "m50-red-cow",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/m50-red-cow/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.366221,
+          53.319043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/m1-m50/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/m1-m50/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/m1-m50/live'>M1-M50</a>",
+        "Camera Name": "M1-M50",
+        "Camera ID": "m1-m50",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/m1-m50/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2251282,
+          53.4103505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/n11-newtownpark-avenue/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/n11-newtownpark-avenue/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/n11-newtownpark-avenue/live'>N11 - Newtownpark Avenue</a>",
+        "Camera Name": "N11 - Newtownpark Avenue",
+        "Camera ID": "n11-newtownpark-avenue",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/n11-newtownpark-avenue/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1850452,
+          53.2784043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/guild-st-mayor-st/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/guild-st-mayor-st/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/guild-st-mayor-st/live'>Guild St - Mayor St</a>",
+        "Camera Name": "Guild St - Mayor St",
+        "Camera ID": "guild-st-mayor-st",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/guild-st-mayor-st/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2409210205078125,
+          53.34909112890753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/oconnell-bridge/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/oconnell-bridge/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/oconnell-bridge/live'>OConnell Bridge</a>",
+        "Camera Name": "OConnell Bridge",
+        "Camera ID": "oconnell-bridge",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/oconnell-bridge/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2588167,
+          53.3468367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/north-quays-civic-offices/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/north-quays-civic-offices/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/north-quays-civic-offices/live'>North Quays - Civic</a>",
+        "Camera Name": "North Quays - Civic",
+        "Camera ID": "north-quays-civic-offices",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/north-quays-civic-offices/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2716484,
+          53.3448384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/pearse-street/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/pearse-street/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/pearse-street/live'>Pearse Street</a>",
+        "Camera Name": "Pearse Street",
+        "Camera ID": "pearse-street",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/pearse-street/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.247662,
+          53.343826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/n11-kilmacud-rd/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/n11-kilmacud-rd/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/n11-kilmacud-rd/live'>N11 - Kilmacud Rd</a>",
+        "Camera Name": "N11 - Kilmacud Rd",
+        "Camera ID": "n11-kilmacud-rd",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/n11-kilmacud-rd/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1956024,
+          53.2893983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/dame-st-civic-offices/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/dame-st-civic-offices/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/dame-st-civic-offices/live'>Dame St - Civic Offices</a>",
+        "Camera Name": "Dame St - Civic Offices",
+        "Camera ID": "dame-st-civic-offices",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/dame-st-civic-offices/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2670346,
+          53.3442214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/liberty-hall/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/liberty-hall/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/liberty-hall/live'>Liberty Hall</a>",
+        "Camera Name": "Liberty Hall",
+        "Camera ID": "liberty-hall",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/liberty-hall/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2552655,
+          53.3484123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/m5-edmondstown/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/m5-edmondstown/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/m5-edmondstown/live'>M50 - Edmondstown</a>",
+        "Camera Name": "M50 - Edmondstown",
+        "Camera ID": "m5-edmondstown",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/m5-edmondstown/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.224302,
+          53.352812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/constitution-hill/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/constitution-hill/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/constitution-hill/live'>Constitution Hill</a>",
+        "Camera Name": "Constitution Hill",
+        "Camera ID": "constitution-hill",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/constitution-hill/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.273095,
+          53.352911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/m1-lissenhall/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/m1-lissenhall/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/m1-lissenhall/live'>M1 - Lissenhall</a>",
+        "Camera Name": "M1 - Lissenhall",
+        "Camera ID": "m1-lissenhall",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/m1-lissenhall/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2048721,
+          53.4787501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/carlowweather/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/carlowweather/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/carlowweather/live'>Carlow Weather</a>",
+        "Camera Name": "Carlow Weather",
+        "Camera ID": "carlowweather",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "saloreilly",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / Default",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/carlowweather/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7014241,
+          52.7960412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/hook-head-north/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/hook-head-north/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/hook-head-north/live'>Hook Head North</a>",
+        "Camera Name": "Hook Head North",
+        "Camera ID": "hook-head-north",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "vinniequinn",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/hook-head-north/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9291115,
+          52.1233714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/port-tunnel-toll-plaza/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/port-tunnel-toll-plaza/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/port-tunnel-toll-plaza/live'>Port Tunnel Toll Plaza</a>",
+        "Camera Name": "Port Tunnel Toll Plaza",
+        "Camera ID": "port-tunnel-toll-plaza",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/port-tunnel-toll-plaza/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3827133,
+          53.3636652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/cabra-rd/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/cabra-rd/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/cabra-rd/live'>Cabra Rd</a>",
+        "Camera Name": "Cabra Rd",
+        "Camera ID": "cabra-rd",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/cabra-rd/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3022041,
+          53.3627432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/stephens-green/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/stephens-green/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/stephens-green/live'>Stephens Green</a>",
+        "Camera Name": "Stephens Green",
+        "Camera ID": "stephens-green",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "marco",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / Default",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/stephens-green/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2611343,
+          53.3401496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/strandhill2/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/strandhill2/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/strandhill2/live'>Strandhill Surf School 2</a>",
+        "Camera Name": "Strandhill Surf School 2",
+        "Camera ID": "strandhill2",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "vinniequinn",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "Axis Communications / Default",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/strandhill2/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6096691,
+          54.2705916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/centralbankbuild/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/centralbankbuild/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/centralbankbuild/live'>Central Bank New Building</a>",
+        "Camera Name": "Central Bank New Building",
+        "Camera ID": "centralbankbuild",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "vinniequinn",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/centralbankbuild/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2328585,
+          53.3493736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/gpocam/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/gpocam/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/gpocam/live'>GPOCam</a>",
+        "Camera Name": "GPOCam",
+        "Camera ID": "gpocam",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "vinniequinn",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / DS-2CD2632F-I-S",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/gpocam/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2604582,
+          53.349321688468464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/wf-countycouncil/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/wf-countycouncil/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/wf-countycouncil/live'>Waterfordcity county</a>",
+        "Camera Name": "Waterfordcity county",
+        "Camera ID": "wf-countycouncil",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "faisal",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/wf-countycouncil/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6211994,
+          52.0921526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/gardinerst/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/gardinerst/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/gardinerst/live'>Gardiner St</a>",
+        "Camera Name": "Gardiner St",
+        "Camera ID": "gardinerst",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "aoifemcd",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "Bewan / Default",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/gardinerst/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.591796875,
+          53.48804553605614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/harolds-cross-bridge/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/harolds-cross-bridge/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/harolds-cross-bridge/live'>Harolds Cross Bridge</a>",
+        "Camera Name": "Harolds Cross Bridge",
+        "Camera ID": "harolds-cross-bridge",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercamdublintraffic",
+        "Online ?": false,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/harolds-cross-bridge/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.27563,
+          53.329515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/duncannon-hooked-cam/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/duncannon-hooked-cam/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/duncannon-hooked-cam/live'>Duncannon Hooked Cam</a>",
+        "Camera Name": "Duncannon Hooked Cam",
+        "Camera ID": "duncannon-hooked-cam",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "vinniequinn",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/duncannon-hooked-cam/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.944534,
+          52.2364961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/evercam-remembrance-camera/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/evercam-remembrance-camera/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/evercam-remembrance-camera/live'>Herbst Wicklow Cam</a>",
+        "Camera Name": "Herbst Wicklow Cam",
+        "Camera ID": "evercam-remembrance-camera",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "evercam",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / Default",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/evercam-remembrance-camera/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0360008,
+          52.9638669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#DC4C3F",
+        "Current Thumbnail Tag": "<img width='140' src='https://media.evercam.io/v1/cameras/wwcam/thumbnail?' />",
+        "Current Thumbnail URL": "https://media.evercam.io/v1/cameras/wwcam/thumbnail?",
+        "Camera Tag": "<a href='http://dash.evercam.io/v1/cameras/wwcam/live'>WWcam</a>",
+        "Camera Name": "WWcam",
+        "Camera ID": "wwcam",
+        "Data Processor": "Camba.tv Ltd\n\n01-5383333",
+        "Data Controller ID": "vinniequinn",
+        "Online ?": true,
+        "Public ?": true,
+        "Vendor/Model": "Hikvision / Default",
+        "marker-symbol": "https://media.evercam.io/v1/cameras/wwcam/thumbnail?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.036472320556641,
+          52.96673456698308
+        ]
+      }
+    }
+  ]
+}
